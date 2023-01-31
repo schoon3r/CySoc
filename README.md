@@ -18,7 +18,9 @@
 
 ## Hint:
 
-1. ```{' ': '_', 
+1. You will need this cypher
+
+    ```{' ': '_', 
         "'": '.----.', 
         '(': '-.--.-', 
         ')': '-.--.-', 
@@ -67,12 +69,16 @@
         'Z': '--..', 
         '_': '..--.-'}
     ```
-2. Make sure the FLAG format is correct before submitting it. (it will start with CySOC)
-<br><br>
-<br><br>
+2. This 'might' be encoded more than once!
+
+3. Make sure the FLAG format is correct before submitting it. (it will start with CySOC)
+<br><br><br><br>
 
 # Challenge 2: Reverse Engineering
 
+Download and inspect the file:<br>bee_kwik.py
+
+<br><br><br><br>
 
 # Challenge 3: GIT_th3m_A11
 
