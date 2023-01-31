@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="../src/CySocLogo.png" alt="CySoc Logo"/>
+  <img src="src/CySocLogo.png" alt="CySoc Logo"/>
 </p>
 
 <h1 align="center"> CySOC - CTF CHALLENGE </h1>
