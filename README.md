@@ -76,7 +76,7 @@
 
 # Challenge 2: Reverse Engineering
 
-Download and inspect the file:<br>bee_kwik.py
+Download and inspect the file:<br>`bee_kwik.py`
 
 <br><br><br><br>
 
