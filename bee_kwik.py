@@ -9,7 +9,8 @@
 
 # Reverse Engineering Challenge
 # Option 01: reverse the code
-# Option 02: run the code and programatically get the answer
+# Option 02: run the code in your terminal and programatically get the answer
+#            $ python3 bee_kwik.py
 
 import hashlib
 import random
