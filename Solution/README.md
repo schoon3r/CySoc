@@ -20,7 +20,7 @@ Programmatically solving the cypher:
 
 `Note:` I fixed the issue where it randomly asks you to only put it in the character between 2x-4x... hahaha!
 
-Here are an explanation of each function in the code:
+Here is an explanation of each function in the code:
 
 1. get_flag(): absolutely nothing! 
 2. countdown(t): passes in a time variable in the function which is the time you started to run the program and countsdown (x) number of seconds based on the ran_gen() method to enter in the characters in the program.
