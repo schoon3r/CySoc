@@ -7,7 +7,7 @@ Manually solving the cypher:
 
 1. First you will have to convert the morse code into its relevant decimal value.
 2. Second, you can look up the alpha numeric correlation of the decimal value in an ASCII table.
-3. And third, encryption is encoded by ROT13 cypher. Go to https://gchq.github.io/CyberChef/ and put in the ASCII characters in the input and add `magic` recipe or ROT13 specifically and you will get the flag.
+3. And third, encryption is encoded by ROT13 cypher. Go to https://gchq.github.io/CyberChef/ and put in the ASCII characters in the input and add `magic` recipe or `ROT13` specifically and you will get the flag.
 
 Programmatically solving the cypher:
 
