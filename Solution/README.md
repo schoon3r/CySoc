@@ -3,13 +3,13 @@
 
 The cypher has encoded been encoded three times with the final form in Morse Code.
 
-Manually solving the cypher:
+## Manually solving the cypher:
 
 1. First you will have to convert the morse code into its relevant decimal value.
 2. Second, you can look up the alpha numeric correlation of the decimal value in an ASCII table.
 3. And third, encryption is encoded by ROT13 cypher. Go to https://gchq.github.io/CyberChef/ and put in the ASCII characters in the input and add `magic` recipe or `ROT13` specifically and you will get the flag.
 
-Programmatically solving the cypher:
+## Programmatically solving the cypher:
 
 1. Please refer to the attached python program `encode3.py` for a sample solution script written in python. Please note that while I used python to solve it, any programming language can be used as well.
 
@@ -20,7 +20,7 @@ Programmatically solving the cypher:
 
 `Note:` I fixed the issue where it randomly asks you to only put it in the character between 2x-4x... hahaha!
 
-Here is an explanation of each function in the code:
+### Here is an explanation of each function in the code:
 
 1. get_flag(): absolutely nothing! 
 2. countdown(t): passes in a time variable in the function which is the time you started to run the program and countsdown (x) number of seconds based on the ran_gen() method to enter in the characters in the program.
