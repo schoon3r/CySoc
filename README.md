@@ -20,7 +20,7 @@
 
 1. You will need this cypher
 
-    ```{
+    ```
         ' ': '_', 
         "'": '.----.', 
         '(': '-.--.-', 
@@ -69,7 +69,6 @@
         'Y': '-.--', 
         'Z': '--..', 
         '_': '..--.-'
-        }
     ```
 2. This 'might' be encoded more than once!
 
