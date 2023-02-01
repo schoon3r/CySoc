@@ -45,7 +45,7 @@ def countdown(t):
 
 def rand_gen():
     character = random.choice(raw)
-    freq = random.randint(1, 5)
+    freq = random.randint(650, 949)
     timer = random.randint(20, 30)
     return character, freq, timer
 
